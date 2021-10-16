@@ -1,0 +1,8 @@
+[32mINFO    [0m root:test_login.py:21 ---------------test case login start---------------
+[32mINFO    [0m root:test_login.py:24 点击跳过
+[32mINFO    [0m root:test_login.py:28 青椒云登录账号输入为'18126480338'
+[32mINFO    [0m root:test_login.py:32 青椒云登录密码输入为'Ruiyun123'
+[32mINFO    [0m root:test_login.py:37 选择登录机房
+[32mINFO    [0m root:test_login.py:41 勾选并同意用户协议
+[32mINFO    [0m root:test_login.py:45 点击登录
+[32mINFO    [0m root:test_login.py:46 ---------------test case login stop---------------

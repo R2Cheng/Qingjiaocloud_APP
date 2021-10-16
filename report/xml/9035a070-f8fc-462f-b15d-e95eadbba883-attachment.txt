@@ -1,0 +1,8 @@
+[32mINFO    [0m root:test_logout.py:33 ---------------test case logout start---------------
+[32mINFO    [0m root:test_logout.py:40 从右向左滑动
+[32mINFO    [0m root:test_logout.py:43 从下向上滑动
+[32mINFO    [0m root:test_logout.py:47 点击退出账号
+[32mINFO    [0m root:test_logout.py:51 点击确定
+[32mINFO    [0m root:test_logout.py:53 ---------------test case logout stop---------------
+[32mINFO    [0m root:test_logout.py:21 关闭应用
+[32mINFO    [0m root:test_logout.py:25 关闭驱动

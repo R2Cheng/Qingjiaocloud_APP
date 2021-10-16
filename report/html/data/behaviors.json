@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "用例--登录测试",
+    "children" : [ {
+      "name" : "test_login_success[info0]",
+      "uid" : "115d3f1e9f920f29",
+      "parentUid" : "9be350c4855ba572c584057958f715c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1634363353839,
+        "stop" : 1634363366480,
+        "duration" : 12641
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'num': 18126480338, 'pwd': 'Ruiyun123'}" ]
+    } ],
+    "uid" : "9be350c4855ba572c584057958f715c4"
+  } ]
+}

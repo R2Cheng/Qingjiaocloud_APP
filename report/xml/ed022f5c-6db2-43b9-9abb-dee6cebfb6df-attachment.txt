@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_logout.py:32 ---------------test case logout start---------------
+[32mINFO    [0m root:test_logout.py:20 关闭应用
+[32mINFO    [0m root:test_logout.py:24 关闭驱动

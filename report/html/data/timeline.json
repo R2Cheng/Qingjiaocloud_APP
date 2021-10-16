@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-J7QMKKTN",
+    "children" : [ {
+      "name" : "3500-MainThread",
+      "children" : [ {
+        "name" : "test_login_success[info0]",
+        "uid" : "115d3f1e9f920f29",
+        "parentUid" : "73a8fae9a37c1238aa31f1bb1fe6bf35",
+        "status" : "passed",
+        "time" : {
+          "start" : 1634363353839,
+          "stop" : 1634363366480,
+          "duration" : 12641
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'num': 18126480338, 'pwd': 'Ruiyun123'}" ]
+      } ],
+      "uid" : "73a8fae9a37c1238aa31f1bb1fe6bf35"
+    } ],
+    "uid" : "739bd3eb1c24ff16262d67f70a70a251"
+  } ]
+}

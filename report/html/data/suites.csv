@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Oct 16 13:49:13 CST 2021","Sat Oct 16 13:49:26 CST 2021","12641","case","test_login","TestLogin","","","test_login_success[info0]","该用例是针对登录的测试"

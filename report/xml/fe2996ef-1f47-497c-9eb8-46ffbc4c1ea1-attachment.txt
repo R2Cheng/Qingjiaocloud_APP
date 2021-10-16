@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_login.py:23 ---------------test case login start---------------
+[32mINFO    [0m root:test_login.py:26 点击跳过
